@@ -1,0 +1,4 @@
+#Wed Mar 20 15:46:57 WET 2019
+base.0=/Users/pedrobarbosa/Desktop/Poetic/react-native-nfc-android-poc/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
